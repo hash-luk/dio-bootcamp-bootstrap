@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font: 14px/1.5 'Open Sans', sans-serif;
+    color: #FFF;
 }
 
 html {
@@ -10,13 +11,16 @@ html {
 }
 
 .navbar {
-    background-color: #298A08;
+    background-color: #867f79;
+}
+
+.navbar a {
+    color: #FFF !important;
 }
 
 .quemsomos {
-    background-color: #8181E7;
+    background-color: #6a6762;
     padding: 50px 0px;
-    color: #FFF;
 }
 
 .rounded-circle {
@@ -25,4 +29,19 @@ html {
 
 .parceiros {
     padding: 50px 0px;
+    background-color: #948e88;
+}
+
+.servicos {
+    padding: 50px 0px;
+    background-color: #7d756c;
+}
+
+.servicos,p,h3 {
+    padding: 20px 0px;
+}
+
+.bg-footer {
+    padding: 50px 0px;
+    background-color: #18130c;
 }
