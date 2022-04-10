@@ -2,8 +2,27 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font: 14px/1.5 'Open Sans', sans-serif;
 }
 
 html {
     font-size: 16px;
+}
+
+.navbar {
+    background-color: #298A08;
+}
+
+.quemsomos {
+    background-color: #8181E7;
+    padding: 50px 0px;
+    color: #FFF;
+}
+
+.rounded-circle {
+    margin-bottom: 30px;
+}
+
+.parceiros {
+    padding: 50px 0px;
 }
