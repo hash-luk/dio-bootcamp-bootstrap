@@ -29,7 +29,7 @@ Este foi um mini projeto contruído durante uma class da DIO, onde afirmava os c
 
 ## Licença 👨🏼‍⚖️
 
-[MIT]()
+[MIT](https://github.com/hash-luk/dio-bootcamp-bootstrap/blob/main/LICENSE)
 
 #
 
